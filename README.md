@@ -68,11 +68,11 @@ npm start
 ### Sample Request Body (POST)
 ```json
 {
-  "rollNumber": "21-CS-105",
-  "name": "Ali Hassan",
-  "email": "ali.hassan@university.edu",
+  "rollNumber": "23f-6014",
+  "name": "Amama Sajjad",
+  "email": "amama@university.edu",
   "department": "Computer Science",
-  "cgpa": 3.78,
-  "enrollmentYear": 2021
+  "cgpa": 3.18,
+  "enrollmentYear": 2023
 }
 ```
